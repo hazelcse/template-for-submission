@@ -1,0 +1,13 @@
+models:
+  - name: q3
+    description: >
+      Answer to Q3 of take home test
+    meta:
+      owner: hazelcse02@gmail.com
+    columns:
+      - vendor_name
+      description: Name of the vendor
+      - country_name
+      description: Name of the country vendor is in.
+      - total_gmv
+      description: Total GMV calculated for the vendor.

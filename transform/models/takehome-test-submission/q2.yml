@@ -1,0 +1,13 @@
+models:
+  - name: q2
+    description: >
+      Answer to Q2 of take home test
+    meta:
+      owner: hazelcse02@gmail.com
+    columns:
+      - vendor_name
+        description: Name of the vendor.
+      - customer_count
+        description: Number of unique customers who have visited the vendor.
+      - total_gmv
+        description: GMV calculated for each vendor.

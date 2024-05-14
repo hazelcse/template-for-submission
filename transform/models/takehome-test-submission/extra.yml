@@ -1,0 +1,13 @@
+models:
+  - name: extra
+    description: >
+      Part 2.2E of take home test
+    meta:
+      owner: hazelcse02@gmail.com
+    columns:
+      - year
+      description: The year taken into account for orders.
+      - vendor_name
+      description: Name of the vendor
+      - total_gmv
+      description: Total GMV calculated for each vendor in the specified year.
